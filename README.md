@@ -12,7 +12,7 @@ I  write a shell in c programme language. Implement multiple shell commands such
 6. You can print exit or quit to exit the shell
 
 ## How to Run
-It is easy for running, Just compile the myshell.c  to myshell. Then use ./ to run it
+It is easy for running, Just compile the myshell.c  to myshell. Then use ./ to run it,But this program must run in Ubuntu or other linux kernel.
 
     complie: gcc -o myshell myshell.c
     running: ./myshell
